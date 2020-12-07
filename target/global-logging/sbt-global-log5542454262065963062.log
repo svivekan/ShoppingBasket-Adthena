@@ -1,0 +1,9 @@
+[debug] > Exec(run Apple Apple Apple Orange, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 4 Scala sources to C:\shoppingcart\ShoppingBasket-Adthena\target\scala-2.13\classes ...
+[warn] 1 deprecation (since 2.13.0); re-run with -deprecation for details
+[warn] one warning found
+[info] done compiling
+[success] Total time: 1 s, completed 05-Dec-2020 21:02:57
+[debug] > Exec(idea-shell, None, None)

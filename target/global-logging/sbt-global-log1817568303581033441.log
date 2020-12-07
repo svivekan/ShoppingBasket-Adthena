@@ -1,0 +1,9 @@
+[debug] > Exec(run Apple Apple, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 4 Scala sources to C:\shoppingcart\ShoppingBasket-Adthena\target\scala-2.11\classes ...
+[info] Non-compiled module 'compiler-bridge_2.11' for Scala 2.11.6. Compiling...
+[info]   Compilation completed in 13.831s.
+[info] done compiling
+[success] Total time: 18 s, completed 05-Dec-2020 21:10:07
+[debug] > Exec(idea-shell, None, None)

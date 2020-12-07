@@ -1,0 +1,5 @@
+[debug] > Exec(run Apple Apple Apple Orange, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed 05-Dec-2020 21:10:14
+[debug] > Exec(idea-shell, None, None)

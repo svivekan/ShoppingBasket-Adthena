@@ -1,0 +1,18 @@
+[debug] > Exec(test, None, None)
+[debug] Evaluating tasks: Test / test
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] BasketBuilderSpec:
+[info] checkoutFinalTotal
+[info] - should return Zero when Basket is Empty
+[info] - should correctly price 2 Apples
+[info] - should correctly price 2 Apples, Milk
+[info] - should correctly price 2 Apples, Soup
+[info] - should correctly price 2 Apples, 2 Soup
+[info] Run completed in 513 milliseconds.
+[info] Total number of tests run: 5
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 5, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Forcing garbage collection...
+[success] Total time: 2 s, completed 06-Dec-2020 23:34:08
+[debug] > Exec(idea-shell, None, None)
